@@ -1,0 +1,99 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap'); */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+div.Hero{
+    display: flex;
+    flex-direction: column;
+    top: 32px;
+    margin-bottom: 48px ;
+    margin-top: 32px;
+    text-align: center;
+}
+div.Education{
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+}
+
+hr{ width: 100%;
+    height: 4px;
+    background-color: black;
+    margin-right: 32px;
+    margin-bottom: 32px;
+}
+p.course{
+    font-weight: bold;
+    font-style: italic;
+}
+
+div.Education_1{
+    margin-bottom: 24px;
+}
+
+div.Work_Experience{
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+}
+
+div.comp_name{
+    margin-bottom: 24px;
+}
+
+div.comp_name_D{
+    margin-bottom: 24px;
+    margin-left: 24px;
+}
+
+div.Prj_Experience{
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+}
+
+div.L_Experience{
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+}
+
+div.L_name{
+    margin-bottom: 24px;
+}
+
+div.L_D{
+    margin-bottom: 24px;
+}
+
+div.V_Experience{
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+}
+
+
+div.V_D{ margin-bottom: 24px;
+}
+
+div.HA_name{
+    margin-bottom: 24px;
+}
+
+div.HA{
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+}
+
+div.p_mem{
+    margin-left: 64px;
+    margin-right: 64px;
+    margin-bottom: 64px;
+}
